@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="imagens/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/imagens"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/activation.jar"/>
+	<classpathentry kind="lib" path="dist/lib/Bematech.jar"/>
+	<classpathentry kind="lib" path="dist/lib/Bopepo-0.3-Litio-GeracaoGuia-VersaoAvaliacao-2010-06-10.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-codec-1.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-email-1.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-net-1.2.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-net-2.2-ftp.jar"/>
+	<classpathentry kind="lib" path="dist/lib/DateChooser.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-2.0.8.jar"/>
+	<classpathentry kind="lib" path="dist/lib/iText-2.1.7.js2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jasperreports-5.1.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jaybird-full-2.1.6.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jrimum-bopepo-0.2.3-DEV-20150115.182805-54-dep.jar"/>
+	<classpathentry kind="lib" path="dist/lib/log4j.properties.test.jar"/>
+	<classpathentry kind="lib" path="dist/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mail-1.4.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="dist/lib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swingx-beaninfo-1.6.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swingx-mavensupport-1.6.4.jar"/>
+	<classpathentry kind="lib" path="src/jars/h2-2.2.224.jar"/>
+	<classpathentry kind="lib" path="dist/Sindicato.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
